@@ -1,7 +1,7 @@
 {
-  "name": "@chatwoot/utils",
+  "name": "@repo/utils",
   "version": "0.0.30",
-  "description": "Chatwoot utils",
+  "description": "repo utils",
   "private": false,
   "license": "MIT",
   "main": "dist/index.js",
